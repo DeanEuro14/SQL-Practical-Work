@@ -21,9 +21,8 @@ The course is designed to build practical SQL skills from beginner to intermedia
 
 ## What You'll Find Here
 
-Each folder or `.pdf` file contains:
-- A **practical task**
-- Clean and beginner-friendly SQL code
+- A **practical task** with clean and beginner-friendly SQL code
+- The **csv.** files used
 - Use of real-world business scenarios (e.g. Bright Coffee Shop, BrightTV Viewership)
 
 ---
@@ -35,3 +34,6 @@ Each folder or `.pdf` file contains:
 ├── Practical 1 - SQL Fundamentals (Google Big Query-Basic SQL Syntax).pdf 
 ├── Practical 1 - SQL Fundamentals (Snowflake -Basic SQL Syntax)
 ├── Practical 2 - Snowflake.pdf
+├── orders_large.csv
+├── products_large.csv
+├── customers_large.csv
