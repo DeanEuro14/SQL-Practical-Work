@@ -34,8 +34,10 @@ The course is designed to build practical SQL skills from beginner to intermedia
 ├── Practical 1 - SQL Fundamentals (Google Big Query-Basic SQL Syntax).pdf 
 ├── Practical 1 - SQL Fundamentals (Snowflake -Basic SQL Syntax)
 ├── Practical 2 - Snowflake.pdf
+├── Practical 3 - Advanced SQL (NULL Functions).pdf
 ├── orders_large.csv          #Used in Practical 2
 ├── products_large.csv        #Used in Practical 2
 ├── customers_large.csv       #Used in Practical 2
 ├── retail_sales_dataset.csv  #Used in Practical 1
+├── shopping_trends.csv       #Used in Practical 3
 
